@@ -1,7 +1,5 @@
 Test for git command
 
-second test
+yes
 
-hahahahahaahah
-
-Change from the remote
+fifth test
