@@ -1,0 +1,24 @@
+Zabbix
+
+Ağ servislerini ,sunucuları izlemek için geliştirilmiş. Anormallikleri tespit edip aksiyon gerçekleştirebilir.
+Siber Güvenliği arttırır. Olası atakların önceden engellenmesini sağlar.
+bu ortamları ana bilgisayara ekleyerek kendi üzerine monitoring edebilme olanağı sağlar.(manuel bir şekilde agent kurulumu gerekmez)
+Topladığı verileri saklaması ve raporlamasının yanı sıra bunları bizler için görselleştirir.
+
+4 adım
+
+Item
+Bilgilerin toplandığı modüldür.Her item farklı servis alanında bilgi toplar.
+
+Trigger
+Anormallik tespit edildiğinde trigger devreye girer
+
+Problem
+
+Action
+Anormallik durumunda ne yapılcağı belirlenir. 
+Item a bağlı bir trigger olduğunda action gerçekleştirilmesi gerekmektedir.
+Mail-SMS-Komut ile müdahale edebilir.
+
+
+Problems sekmesi problem hakkında detaylları gösterir (ne sıklıkla ne zaman ne kadar sürdüğü) daha öncesiyle aynı kaynaktan...
